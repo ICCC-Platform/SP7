@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Analysis</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        #container {
+            display: flex;
+            align-items: flex-start;
+        }
+        #controls {
+            margin-right: 20px;
+        }
+        #controls input,
+        #controls button {
+            display: block;
+            margin-bottom: 10px; /* 設定按鈕之間的間隔 */
+        }
+        #preview {
+            max-width: 100%; /* 調整圖片預覽的寬度，使其不會超出其容器的寬度 */
+            max-height: 500px; /* 最大高度設定為 300px */
+            height: auto; /* 讓圖片按比例縮放 */
+            margin-left: 20px; /* 添加左側間距，與其他元素分開 */
+        }
+    </style>
+</head>
+<body>
+    <h1>SP7 Demo</h1>
+    <div id="container">
+        <div id="controls">
+            <input type="file" id="photo-input" accept="image/*">
+            <br>
+            <button id="analyze-btn" disabled>Analyze</button>
+        </div>
+        <img id="preview" src="" alt="Preview" style="display: none;">
+    </div>
+    <div id="result"></div>
+
+    <script>
+        $(document).ready(function() {
+            $('#photo-input').change(function(event) {
+                var file = event.target.files[0];
+                var reader = new FileReader();
+                reader.onload = function(e) {
+                    $('#preview').attr('src', e.target.result).show();
+                    $('#analyze-btn').prop('disabled', false);
+                }
+                reader.readAsDataURL(file);
+
+                var formData = new FormData();
+                formData.append('file', file);
+                $.ajax({
+                    url: '/upload',
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function(response) {
+                        console.log('File uploaded successfully');
+                        if (response.file_url) {
+                            $('#preview').attr('src', response.file_url);
+                        }
+                    },
+                    error: function(response) {
+                        console.log('Error: ' + response.responseJSON.error);
+                    }
+                });
+            });
+
+            $('#analyze-btn').click(function() {
+                $.ajax({
+                    url: '/analyze',
+                    type: 'POST',
+                    success: function(response) {
+                        $('#result').text('Analysis result: ' + response.result);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Downloads\\HSEnvPredict - 1.0.0.3\\HSEnvPredict\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsEnvPredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\hsEnvPredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsHSITransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\hsHSITransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjGridPictureBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\mjGridPictureBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjPaintItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\mjPaintItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\AUTO_deep_clean Full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTO_deep_clean Full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\HSEnvPredict.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\HSEnvPredict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSEnvPredict\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Downloads\\HSEnvPredict - 1.0.0.3\\HSEnvPredict\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\HSEnvPredict - 1.0.0.3\\HSEnvPredict\\Form1.cs",
+              "ToolTip": "E:\\Downloads\\HSEnvPredict - 1.0.0.3\\HSEnvPredict\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\HSEnvPredict - 1.0.0.3\\HSEnvPredict\\Form1.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:38:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mjPaintItems.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjPaintItems.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\mjPaintItems.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjPaintItems.cs",
+              "RelativeToolTip": "HSEnvPredict\\mjPaintItems.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:49:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AUTO_deep_clean Full.bat",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\AUTO_deep_clean Full.bat",
+              "RelativeDocumentMoniker": "AUTO_deep_clean Full.bat",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\AUTO_deep_clean Full.bat",
+              "RelativeToolTip": "AUTO_deep_clean Full.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2024-06-26T02:44:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Program.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\Program.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Program.cs",
+              "RelativeToolTip": "HSEnvPredict\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:44:00.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\App.config",
+              "RelativeDocumentMoniker": "HSEnvPredict\\App.config",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\App.config",
+              "RelativeToolTip": "HSEnvPredict\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T02:37:28.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mjGridPictureBox.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjGridPictureBox.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\mjGridPictureBox.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\mjGridPictureBox.cs",
+              "RelativeToolTip": "HSEnvPredict\\mjGridPictureBox.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:34:53.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hsHSITransfer.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsHSITransfer.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\hsHSITransfer.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsHSITransfer.cs",
+              "RelativeToolTip": "HSEnvPredict\\hsHSITransfer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:34:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HSEnvPredict.csproj.user",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj.user",
+              "RelativeDocumentMoniker": "HSEnvPredict\\HSEnvPredict.csproj.user",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj.user",
+              "RelativeToolTip": "HSEnvPredict\\HSEnvPredict.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-26T02:34:18.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HSEnvPredict.csproj",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj",
+              "RelativeDocumentMoniker": "HSEnvPredict\\HSEnvPredict.csproj",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\HSEnvPredict.csproj",
+              "RelativeToolTip": "HSEnvPredict\\HSEnvPredict.csproj",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T02:34:04.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hsEnvPredictor.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsEnvPredictor.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\hsEnvPredictor.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\hsEnvPredictor.cs",
+              "RelativeToolTip": "HSEnvPredict\\hsEnvPredictor.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:26:16.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\Form1.Designer.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.Designer.cs",
+              "RelativeToolTip": "HSEnvPredict\\Form1.Designer.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:26:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.cs",
+              "RelativeDocumentMoniker": "HSEnvPredict\\Form1.cs",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.cs",
+              "RelativeToolTip": "HSEnvPredict\\Form1.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:24:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.resx",
+              "RelativeDocumentMoniker": "HSEnvPredict\\Form1.resx",
+              "ToolTip": "E:\\KK\\\u8A08\u756B\\SP7_1\\For SP1\\HSEnvPredict - 1.0.0.2\\HSEnvPredict\\Form1.resx",
+              "RelativeToolTip": "HSEnvPredict\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T02:34:02.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
